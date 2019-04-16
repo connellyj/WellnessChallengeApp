@@ -1,0 +1,3 @@
+rootProject.name = 'healthcomps1718'
+
+include ':app'
